@@ -1,0 +1,8 @@
+**/Data/
+*.csv
+*.pt
+*.pth
+*.pkl
+.DS_Store
+Transformer/Transformer/artifacts/
+Transformer/MLAIExploration.png
