@@ -1,0 +1,13 @@
+kaggle
+huggingface
+transformers
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+xgboost
+lightgbm
+plotly
+shap
